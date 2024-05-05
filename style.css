@@ -1,0 +1,32 @@
+h1 {
+    color: green;
+    text-align: center;
+
+}
+
+header {
+    color: darkgray;
+}
+
+a {
+    display: flex;
+    color: darkcyan;
+    align-items: center;
+    background-color: beige;
+    border-radius: 15px;
+    width: 300px;
+    height: 45px;
+    margin: 0 auto;
+    font-size: large;
+    justify-content: center;
+    align-items: center;    
+}
+
+p {
+    text-align: center;
+}
+
+body {
+    background-image: url('Trr.jpg');
+    background-size: cover;
+}
